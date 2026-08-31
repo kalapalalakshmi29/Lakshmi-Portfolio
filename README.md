@@ -1,97 +1,94 @@
-# Harsha Vardhan - Premium Portfolio
-## Link :  https://harsha2675.github.io/My-Portfolio/
+# Kalapala Lakshmi - Portfolio
+## Live Link: https://kalapalalakshmi29.github.io/Lakshmi-Portfolio
 
-A premium, modern portfolio website built with HTML, CSS, and JavaScript featuring glassmorphism design, smooth animations, and professional styling.
+A premium, modern portfolio website built with HTML, CSS, and JavaScript featuring a Lavender & Coral Glow design, smooth animations, and professional styling.
+
+## About
+
+Goal-oriented Information Technology student at Seshadri Rao Gudlavalleru Engineering College, with a strong foundation in developing scalable MERN stack applications and Artificial Intelligence solutions. Proficient in Python and Java, with hands-on experience through industry-focused internships.
 
 ## Features
 
 ✨ **Premium Design**
+- Lavender & Coral Glow palette (`#FAF7FD` background, `#E11D48` coral, `#4338CA` indigo)
 - Glassmorphism effects with modern gradients
-- Smooth scroll-triggered animations
+- Smooth scroll-triggered animations & 3D tilt cards
 - Responsive design (mobile, tablet, desktop)
-- Dark theme with purple/cyan gradient accents
+- Tab key navigation between slides
 
-🎨 **Sections**
-- Hero with typewriter effect
-- About with feature cards
-- Technical Skills showcase
-- Professional Experience timeline
-- Featured Projects gallery
-- Certifications & Achievements
-- Contact form
-- Professional footer
+🎨 **Sections (5 Slides)**
+- Slide 1: Hero with typewriter effect & About Me
+- Slide 2: Education, Technical Skills & Certifications
+- Slide 3: Featured Projects gallery
+- Slide 4: Professional Experience timeline
+- Slide 5: Contact form & Footer
 
 ⚡ **Performance**
 - Optimized animations with CSS transforms
 - Intersection Observer for scroll animations
 - Clean, minimal JavaScript
 
-## Setup Instructions
+## Personal Details
 
-### 1. **Add Your Profile Photo**
+- 📧 Email: kalapalalakshmi183@gmail.com
+- 📞 Phone: +91 7416482644
+- 📍 Location: Gudivada, Andhra Pradesh, India
+- 💼 LinkedIn: https://linkedin.com/in/lakshmi-kalapala-7451a4359
+- 💻 GitHub: https://github.com/kalapalalakshmi29
 
-To display your profile photo on the portfolio:
+## Education
 
-**Option 1: Upload Photo to GitHub (Recommended)**
-1. Add your profile photo to the repository as `profile-photo.jpg`
-2. Update the image URL in `index.html` line 149:
-```html
-<img src="profile-photo.jpg" alt="Harsha Vardhan" class="profile-photo">
-```
+| Degree | Institution | Year | Score |
+|---|---|---|---|
+| B.Tech in Information Technology | Seshadri Rao Gudlavalleru Eng. College | 2023–2027 | CGPA: 7.26 |
+| Intermediate (MPC) | Narayana Junior College, Gudivada | 2021–2023 | 87% |
+| SSC (10th Standard) | Montessori English Medium High School | 2020–2021 | 95% |
 
-**Option 2: Use Online Image URL**
-Replace the image src with any online image URL (must be accessible on public GitHub):
-```html
-<img src="YOUR_IMAGE_URL_HERE" alt="Harsha Vardhan" class="profile-photo">
-```
+## Projects
 
-**Option 3: Use Your GitHub Avatar**
-```html
-<img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID?v=4" alt="Harsha Vardhan" class="profile-photo">
-```
-Replace `YOUR_GITHUB_ID` with your actual GitHub user ID (visit https://api.github.com/users/Harsha2675 to find it)
+| Project | Tech Stack | GitHub |
+|---|---|---|
+| Attendance Management System | React.js, Spring Boot, MySQL | [Link](https://github.com/kalapalalakshmi29/Attendance-Management-System) |
+| Real-time Chat Application | JavaScript, Socket.IO, Node.js | [Link](https://github.com/kalapalalakshmi29/Real-time-Chat-Application) |
+| Employee Management System | React.js, Spring Boot, MySQL | [Link](https://github.com/kalapalalakshmi29/Employee-Management-System) |
+| HDI Analysis & Prediction | Python, ML, Data Viz | [Link](https://github.com/kalapalalakshmi29/A-Comprehensive-Measure-of-Well-Being) |
+| GrocerX | MERN, JWT, REST API | [Link](https://github.com/kalapalalakshmi29/GrocerX-Your-Digital-Grocery-Store-Experience) |
+| Smart Health Care | Python, MongoDB, Deep Learning | [Link](https://github.com/kalapalalakshmi29) |
 
-### 2. **Customize Content**
-- Update your name, bio, and contact info in `index.html`
-- Modify skills, projects, and certifications as needed
-- Update social media links (GitHub, LinkedIn, Email)
+## Experience
 
-### 3. **Deploy**
-- Push to GitHub
-- Enable GitHub Pages in repository settings
-- Your portfolio will be live at `https://yourusername.github.io/my-portfolio`
+- **Full Stack Developer Intern (Virtual)** — SmartBridge | May 2025 – July 2025
+- **AI & ML Intern** — NYERA Edutech & Innovations | Sept 2025 – Oct 2025
+- **AI & ML Intern (Virtual)** — SmartBridge | May 2026 – July 2026
+
+## Certifications
+
+- IBM SkillsBuild — AI Fundamentals (Credly Verified)
+- Udemy — Deep Learning Foundations for AI and Gen AI
+- NPTEL (IIT Kharagpur) — Industry 4.0 & IIoT (Elite Badge, 69%)
+- NPTEL (IIT Kharagpur) — Computer Vision (55%)
+- NPTEL (IIT Roorkee) — Sustainable Transportation Systems (Elite Badge, 56%)
+- Qubitech — Quantum Fundamentals
+
+## Tech Stack
+
+- **Frontend:** HTML5, CSS3, JavaScript, React.js
+- **Backend:** Node.js, Express.js, Spring Boot
+- **Database:** MongoDB, MySQL
+- **AI/ML:** Python, Scikit-learn, Deep Learning
+- **Tools:** Git, GitHub, VS Code, PowerBI, Excel, Flutter (basics)
 
 ## File Structure
 
 ```
-portfolio/
-├── index.html      # Main HTML structure
-├── styles.css      # Complete styling & animations
-├── script.js       # JavaScript functionality
-└── profile-photo.jpg  # Your profile photo (add this)
+Lakshmi-Portfolio/
+├── index.html          # Main HTML structure
+├── styles.css          # Complete styling & animations
+├── script.js           # JavaScript functionality
+├── lakshmi-profile.png # Profile photo
+└── README.md           # Project documentation
 ```
-
-## Technologies Used
-
-- **HTML5** - Semantic markup
-- **CSS3** - Advanced animations, gradients, flexbox, grid
-- **JavaScript** - DOM manipulation, scroll effects, form handling
-- **Font Awesome** - Icons library
-- **Google Fonts** - Space Grotesk & Sora fonts
-
-## Browser Support
-
-- Chrome (latest)
-- Firefox (latest)
-- Safari (latest)
-- Edge (latest)
-
-## Contact
-
-- 📧 Email: harshavardhankokkiripati@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/kokkiripati-harsha-vardhan-733a02375
-- 💻 GitHub: https://github.com/Harsha2675
 
 ---
 
-Made with ❤️ and clean code by Kokkiripati Harsha Vardhan
+Made with ❤️ by Kalapala Lakshmi
